@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Villa_Lassani_Kozan" size="50.000000 44.633335" />
+    <ImageTarget name="platiaNikhs" size="50.000000 35.156250" />
+    <ImageTarget name="MouseioSygxronhsIstorias" size="50.000000 37.333332" />
+  </Tracking>
+</QCARConfig>
